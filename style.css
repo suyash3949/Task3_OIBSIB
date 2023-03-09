@@ -1,0 +1,35 @@
+
+#converter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+  }
+  
+  input[type="text"] {
+    font-size: 24px;
+    padding: 5px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  select {
+    font-size: 24px;
+    padding: 5px;
+    width: 80px;
+    text-align: center;
+    margin-left: 10px;
+  }
+  
+  button {
+    font-size: 24px;
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: blueviolet;
+  }
+  
+  #result {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
